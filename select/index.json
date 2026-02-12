@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ACTION",
+  "base_artist": "eill",
+  "createdAt": "2026-02-12T13:30:01.618598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Less Talk and a Lot More Action",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/01_A_Little_Less_Talk_and_a_Lot_More_Action_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Little Less Talk And A Lot More Action (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/02_A_Little_Less_Talk_And_A_Lot_More_Action_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Action (feat. Lil Gotit)",
+      "artist": "Yung Mal feat. Pi'erre Bourne & Lil Gotit",
+      "has_synced": true,
+      "path": "select/03_Action_(feat._Lil_Gotit)_Yung_Mal_feat._Pi'erre_Bourne_&_Lil_Gotit.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Action (feat. Pi'erre Bourne & Lil Gotit)",
+      "artist": "Yung Mal",
+      "has_synced": true,
+      "path": "select/04_Action_(feat._Pi'erre_Bourne_&_Lil_Gotit)_Yung_Mal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moteur action (Alexaert remix)",
+      "artist": "Yelle",
+      "has_synced": false,
+      "path": "select/05_Moteur_action_(Alexaert_remix)_Yelle.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Moteur action (SOPHIE & A. G. Cook remix)",
+      "artist": "Yelle",
+      "has_synced": true,
+      "path": "select/06_Moteur_action_(SOPHIE_&_A._G._Cook_remix)_Yelle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Get My Thang In Action",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/07_I_Get_My_Thang_In_Action_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Affirmative Action (feat. AZ, Cormega & Foxy Brown)",
+      "artist": "Nas feat. AZ, Cormega & Foxy Brown",
+      "has_synced": true,
+      "path": "select/08_Affirmative_Action_(feat._AZ,_Cormega_&_Foxy_Brown)_Nas_feat._AZ,_Cormega_&_Foxy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Affirmative Action (feat. AZ, Cormega, and Foxy Brown)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/09_Affirmative_Action_(feat._AZ,_Cormega,_and_Foxy_Brown)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Action This Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/10_Action_This_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Intro / Time For Some Action",
+      "artist": "N.E.R.D",
+      "has_synced": false,
+      "path": "select/11_Intro___Time_For_Some_Action_N.E.R.D.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Time For Some Action",
+      "artist": "N.E.R.D.",
+      "has_synced": false,
+      "path": "select/12_Time_For_Some_Action_N.E.R.D..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Action",
+      "artist": "Sweet",
+      "has_synced": true,
+      "path": "select/13_Action_Sweet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ACTION",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_ACTION_eill.txt"
+    }
+  ]
+}
